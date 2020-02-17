@@ -1,5 +1,7 @@
 # IBM_C
 
+## https://chat.whatsapp.com/H7JDGEIU17pBMHwovepN5p
+
 ## Day 1
 * Getting Started with Java
 * Installing, compiling, setting classpath, executing
