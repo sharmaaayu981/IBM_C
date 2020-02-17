@@ -1,0 +1,49 @@
+JAVA BASIC PROGRAMS
+Java Program to Add two Numbers
+Java Program to Multiply two Numbers
+Java Program to check if a number is Positive or Negative
+Java Program to Find Sum of Natural Numbers
+Java Program to add two complex numbers
+Java Program to Check Even or Odd Number
+Java Program to display even numbers from 1 to n or 1 to 100
+Java Program to display odd numbers from 1 to n or 1 to 100
+Java Program to check Leap Year
+    To determine whether a year is a leap year, follow these steps:
+        1. If the year is evenly divisible by 4, go to step 2. Otherwise, go to step 5.
+        2. If the year is evenly divisible by 100, go to step 3. Otherwise, go to step 4.
+        3. If the year is evenly divisible by 400, go to step 4. Otherwise, go to step 5.
+        4. The year is a leap year (it has 366 days).
+        5. The year is not a leap year (it has 365 days).
+Java Program to check whether input character is vowel or consonant
+Java Program to calculate simple interest
+    Simple Interest = (P × R × T)/100
+Java Program to calculate compound interest
+    P (1 + R/n) ^ (nt) - P
+Java Program to find quotient and remainder
+Java Program to calculate power of a number
+Java Program to reverse a number
+Java Program to find Largest of three numbers
+Java Program to swap two numbers using bitwise operator
+Java Program to find smallest of three numbers using ternary operator
+Java Program to find largest of three numbers using ternary operator
+Java Program to make a calculator using switch case
+
+
+JAVA ARRAYS PROGRAMS
+Java Program to Calculate average of numbers using Array
+Java Program to Add the numbers of an Array
+Java Program to reverse an array
+Java Program to sort an array in ascending order
+Java Program to find Factorial of a number using Recursion
+Java Program to convert char Array to String
+Java Program to Add Two Matrix Using Multi-dimensional Arrays
+
+
+JAVA PROGRAMS ON GEOMETRICAL CALCULATIONS
+Java Program to Calculate Area of Rectangle
+Java Program to Calculate Area of Square
+Java Program to Calculate the area of Triangle
+Java Program to Calculate Area and Circumference of Circle
+
+
+
