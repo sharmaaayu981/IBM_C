@@ -9,7 +9,7 @@ public class App {
 		Employee emp4 = new Employee("Miley", new Department("IT"), 200, 2017);
 		
 		Manager manager = new Manager();
-		manager.findBonus(emp3);
+		manager.findBonus(emp1);
 		
 	}
 }
