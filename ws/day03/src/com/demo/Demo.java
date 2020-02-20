@@ -23,13 +23,27 @@ abstract class Account {
 
 class SavingsAccount extends Account {
 
+	@Override
+	public void setRoi(int roi) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
 class CurrentAccount extends Account{
+
+	@Override
+	public void setRoi(int roi) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
 public class Demo {
+	
+	
 	public static void main(String[] args) {
-		Account ac = new Account();
+//		Account ac = new Account();
 	}
 }
 
