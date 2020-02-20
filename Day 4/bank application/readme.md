@@ -27,7 +27,7 @@ Graduate, UnderGraduate, PostGraduate
 	60% of loan amount is approved  
 	**Accept/Deny**  
 - User is PostGraduate  
-	100% of loan amount is approved  
+	90% of loan amount is approved  
 	**Accept/Deny**  
 
 If accepted ->  
