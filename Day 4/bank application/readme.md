@@ -13,19 +13,20 @@
 Graduate, UnderGraduate, PostGraduate
 
 
-1. User is Male, Graduate and age is more than 60 years
+- User is not from India, say "We dont serve in your country"
+- User is Male, Graduate and age is more than 60 years
 	80% of loan amount is approved
 	Accept/Deny
-2. User is Female, Graduate and age is more than 55 years
+- User is Female, Graduate and age is more than 55 years
 	80% of loan amount is approved
 	Accpet/Deny
-3. User is Male, UnderGraduate and age is more than 35 years
+- User is Male, UnderGraduate and age is more than 35 years
 	60% of loan amount is approved
 	Accept/Deny
-4. User is Female, UnderGraduate and age is more than 30 years
+- User is Female, UnderGraduate and age is more than 30 years
 	60% of loan amount is approved
 	Accept/Deny
-5. User is PostGraduate
+- User is PostGraduate
 	100% of loan amount is approved
 	Accept/Deny
 
