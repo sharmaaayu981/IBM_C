@@ -14,21 +14,21 @@ Graduate, UnderGraduate, PostGraduate
 
 
 - User is not from India, say "We dont serve in your country"
-- User is Male, Graduate and age is more than 60 years
-	80% of loan amount is approved
-	Accept/Deny
-- User is Female, Graduate and age is more than 55 years
-	80% of loan amount is approved
-	Accpet/Deny
-- User is Male, UnderGraduate and age is more than 35 years
-	60% of loan amount is approved
-	Accept/Deny
-- User is Female, UnderGraduate and age is more than 30 years
-	60% of loan amount is approved
-	Accept/Deny
-- User is PostGraduate
-	100% of loan amount is approved
-	Accept/Deny
+- User is Male, Graduate and age is more than 60 years  
+	80% of loan amount is approved  
+	**Accept/Deny**  
+- User is Female, Graduate and age is more than 55 years  
+	80% of loan amount is approved  
+	**Accept/Deny**  
+- User is Male, UnderGraduate and age is more than 35 years  
+	60% of loan amount is approved  
+	**Accept/Deny**  
+- User is Female, UnderGraduate and age is more than 30 years  
+	60% of loan amount is approved  
+	**Accept/Deny**  
+- User is PostGraduate  
+	100% of loan amount is approved  
+	**Accept/Deny**  
 
 If accepted ->  
 show emi chart as give below
