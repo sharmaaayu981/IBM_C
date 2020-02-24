@@ -1,0 +1,16 @@
+## Problem 1  
+Build an application with the following features:  
+	- User wants to get login and provides email-id and password via console.  
+	- User data will be delegated to Business layer for validation.  
+		- email-id and password must not be null or empty.  
+		- email-id must be valid email id.  
+		- Password must have at least 8 characters.  
+		- If above scenarios are not fulfilled, throw custom exception with proper message otherwise continue.  
+	- After validation is done, user data will be delegated to dao layer for authentication.  
+		- Already 5 users are stored (use array as your database here)  
+		- If email-id is not found, throw exception with message "Invalid email-id".  
+		- If email-id found but password is not correct, throw exception with message "Invalid password"  
+		- If email-id and password are correct, return user.  
+	- In all scenarios, User must see all the info in his screen.   
+
+Class User -> name, email-id, password, age  
