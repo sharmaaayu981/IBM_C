@@ -1,4 +1,4 @@
-## College Application  
+# College Application  
 
 	- There are 3 teachers in this college  
 	- There are 10 students in this college 
@@ -14,7 +14,7 @@ Student
 	- Roll Num, Name, GenderL [Male, Female], Subjects, Grade, Marks  
 
 
-### Teacher data:  
+### Teachers data:  
 
 	Name: Miley  
 	Gender: Female  
@@ -29,7 +29,7 @@ Student
 	Subjects: English  
 
 	
-### Student details:  
+### Students data:  
 
 	Roll Num: 99_302  
 	Name: Euella  
@@ -110,7 +110,7 @@ Student
 	]  
 
 
-
+## Application Requirements:
 **1. Teachers take exams daily (Sunday is off):**  
 	- If today is Monday or Friday, Murli takes exam.  
 	- If today is Wednesday or Thursday, Miley takes exam.  
