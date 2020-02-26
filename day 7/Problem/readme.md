@@ -117,9 +117,9 @@ Student
 	- If today is Tuesday or Saturday, Tom takes exam.  
 
 
-**2. Only students of the same subject in which they have enrolled, can sit the exam.**  
+**2. Only students of the same subject in which they have enrolled, can sit in the exam.**  
 
-**3. After exam, assign below marks to students:**   
+**3. After exam, assign below marks to students who appeared in exam:**   
 	
     [50,66,41,23,19,25,86,49,17,37]  
     Consider above data is saved in file. Read and assign after reading file.
